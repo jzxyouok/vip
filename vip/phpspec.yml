@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: vip
+        psr4_prefix: vip
+        src_path: app
